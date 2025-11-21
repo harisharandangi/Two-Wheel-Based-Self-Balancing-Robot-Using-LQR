@@ -1,4 +1,4 @@
-![Image Alt]([https://github.com/harisharandangi/Two-Wheel-Based-Self-Balancing-Robot-Using-LQR/blob/main/LQR%20in%20simulink.jpeg?raw=true](https://github.com/harisharandangi/Two-Wheel-Based-Self-Balancing-Robot-Using-LQR/blob/main/Photos/LQR%20in%20simulink.jpeg?raw=true))
+![Image Alt](https://github.com/harisharandangi/Two-Wheel-Based-Self-Balancing-Robot-Using-LQR/blob/main/Photos/LQR%20in%20simulink.jpeg?raw=true)
 ![Image Alt]()
 ![Image Alt]()
 ![Image Alt]()
